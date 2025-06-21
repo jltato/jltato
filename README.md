@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jltato I'm form Cordoba, Argentina. i'm 42 years old, I have a bachellor degree in system analyst
-- 👀 I’m interested in learn, gain experience and grow as a .NET developer
-- 🌱 I’m currently working in .NET 8 MVC, Blazor, Angular, C#, VB, API Rest and Sql Server
-- 📫 How to reach me: jltato@hotmail.com, jltato82@gmail.com
-- 👀 LinkedIn: www.linkedin.com/in/jltato
+
+- 👋 Hi, I'm **@jltato**. I'm from Córdoba, Argentina.
+- 👨‍💻 I'm a **.NET Developer** with solid experience and a passion for technology. 
+- 🌱 My stack includes **C#, VB**, and a wide range of technologies such as **ASP.NET Framework 4.8 (WebForms), ASP.NET Core (MVC, API REST), .NET 8, SignalR, SQL Server, Azure, Entity Framework, and Angular**.
+- 👀 I'm always looking for **challenging projects** to apply my knowledge, expand my capabilities, and **contribute to team success**. I'm committed to **continuous improvement and lifelong learning**.
+- ✉️ You can reach me at: **jltato@hotmail.com** or **jltato82@gmail.com**
+- 🌐 Find me on LinkedIn: **[www.linkedin.com/in/jltato](https://www.linkedin.com/in/jltato)**
 
 <!---
 jltato/jltato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
